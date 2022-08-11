@@ -1,0 +1,64 @@
+{
+    "basic_info": {
+      "name": "Nadia Ujovich",
+      "titles": [ "Fullstack Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/nujovich",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://linkedin.com/in/nadiaujovich/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/nujovich",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "70"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        }
+        ,
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "70"
+        }
+      ]
+    }
+  }

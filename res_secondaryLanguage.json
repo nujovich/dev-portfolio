@@ -1,0 +1,48 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Nadia Ujovich. I am a systems engineer giving my first steps towards web development :) I am currently working with Java 11 and 17, but I am learning the newest JS frameworks such as React. If you like my portfolio, do not hesitate to contact me. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Work in progress",
+      "startDate": "2022",
+      "description": "This section is in works. Please be patient :). I will show my recent work sooner!",
+      "images": [
+        "images/portfolio/wip/wip.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Capitole Consulting",
+      "title": "Java Developer",
+      "client": "Inditex (Zara)",
+      "years": "04.2022 - present",
+      "mainTech": [
+        "Java 8/11"
+      ],
+      "technologies": [
+        "REST API",
+        "SpringBoot",
+        "MySql",
+        "Jira",
+        "Bamboo",
+        "Confluence"
+      ]
+    }
+  ]
+}
